@@ -12,7 +12,7 @@
 
 body {
   background-color: #393E46;
-  text-align: center;
+  
 }
 
 h1 {
@@ -21,6 +21,7 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
+  text-align: center;
 }
 
 p {
